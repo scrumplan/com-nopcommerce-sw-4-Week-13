@@ -1,9 +1,8 @@
-package com.nopcommerce.demo.propertyreader.utility;
+package com.nopcommerce.demo.utility;
 
 
 import com.google.common.base.Function;
 import com.nopcommerce.demo.driverfactory.ManageDriver;
-import dev.failsafe.internal.util.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
